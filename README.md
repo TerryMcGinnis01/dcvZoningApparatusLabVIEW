@@ -5,4 +5,4 @@ LabVIEW files designed to allow monitoring and controlling of temperature, CO2 l
 
 ***
 
-See the [Wiki](https://github.com/TerryMcGinnis01/dcvZoningApparatus/wiki) for Installation, Common Issues, and information about each function.
+See the [Wiki](https://github.com/TerryMcGinnis01/dcvZoningApparatusLabVIEW/wiki) for Installation, Common Issues, and information about each function.
