@@ -1,7 +1,7 @@
 # About This Project
 ***
 
-LabVIEW files designed to allow monitoring and controlling of temperature, CO2 levels, and airflow in a test bed.
+LabVIEW and Arduino files designed to allow monitoring and controlling of temperature, CO2 levels, and airflow in a test bed.
 
 ***
 
