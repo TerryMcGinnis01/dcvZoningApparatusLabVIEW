@@ -1,0 +1,19 @@
+Map for CO2 and Temperature Data:
+1 -> inlet air
+2 -> main return
+3 -> zone 2
+4 -> outlet
+5 -> zone 1
+6 -> zone 3
+
+Map for Stepper Motor Data:
+1 -> zone 1 inlet
+2 -> zone 1 return
+3 -> zone 2 inlet
+4 -> zone 2 return
+5 -> zone 3 co2
+6 -> zone 3 return
+7 -> zone 2 co2
+8 -> fresh air
+9 -> zone 1 co2
+10 -> zone 3 inlet
